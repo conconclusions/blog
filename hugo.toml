@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'conconclusions blog'
+
+[permalinks]
+  blog = "/:filename/"
