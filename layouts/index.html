@@ -1,7 +1,9 @@
 {{ define "main" }}
 
 <div>
-  hi
+  <h1>{{ .Site.Title }}</h1>
+  <p>{{ .Site.Params.homeText | markdownify }}</p>
+  <p>the main website can be found here: <a href="https://concon.ca/">concon.ca</a></p>
 </div>
 
 {{ end }}
