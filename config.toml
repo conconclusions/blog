@@ -1,4 +1,4 @@
-baseURL = 'https://concon.ca/blog'
+baseURL = 'https://concon.ca/'
 languageCode = 'en-us'
 title = "conconclusions blog"
 relativeURLs = true
@@ -12,8 +12,8 @@ relativeURLs = true
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "blogposts"
-    url = "/blogposts/"
+    name = "posts"
+    url = "/posts/"
     weight = 2
   [[menu.main]]
     name = "tags"

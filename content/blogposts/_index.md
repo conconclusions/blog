@@ -1,3 +1,0 @@
----
-title: conconclusion blog posts
----
