@@ -1,6 +1,7 @@
 baseURL = 'https://concon.ca/'
 languageCode = 'en-us'
 title = "conconclusions blog"
+canonifyURLs = true
 
 [permalinks]
   blog = "/:filename/"
