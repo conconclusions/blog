@@ -1,7 +1,6 @@
 baseURL = 'https://concon.ca/'
 languageCode = 'en-us'
 title = "conconclusions blog"
-relativeURLs = true
 
 [permalinks]
   blog = "/:filename/"
@@ -26,3 +25,11 @@ relativeURLs = true
 [params]
   dateFormat = "Jan 2, 2006"
   homeText = "my thoughts."
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'img'
+target = 'static/img'
