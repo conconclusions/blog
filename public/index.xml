@@ -10,9 +10,9 @@
     <atom:link href="https://concon.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>private account</title>
-      <link>https://concon.ca/posts/private-account/</link>
+      <link>https://concon.ca/blogposts/private-account/</link>
       <pubDate>Sun, 10 Nov 2024 09:17:42 -0400</pubDate>
-      <guid>https://concon.ca/posts/private-account/</guid>
+      <guid>https://concon.ca/blogposts/private-account/</guid>
       <description>&lt;p&gt;&lt;strong&gt;concon&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;private account,&lt;/strong&gt; 2022&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Screenshot of Twitter App&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;one night, i wrote this string of tweets on my private twitter account&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./img/privateAccount/privateAccount.png&#34; alt=&#34;private account&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
