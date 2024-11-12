@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://concon.ca/blog/tags/</loc>
     <lastmod>2024-11-10T09:17:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogposts/</loc>
+    <loc>https://concon.ca/blog/blogposts/</loc>
     <lastmod>2024-11-10T09:17:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://concon.ca/blog/</loc>
     <lastmod>2024-11-10T09:17:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogposts/this_tl_is_my_safe_space/</loc>
+    <loc>https://concon.ca/blog/blogposts/private-account/</loc>
     <lastmod>2024-11-10T09:17:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/private-account/</loc>
+    <loc>https://concon.ca/blog/tags/private-account/</loc>
     <lastmod>2024-11-10T09:17:42-04:00</lastmod>
   </url>
 </urlset>

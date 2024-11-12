@@ -15,4 +15,4 @@ draft = false
 
 one night, i wrote this string of tweets on my private twitter account
 
-![private account image](/images/privateAccount.pngprivateAccount.png)
+![private account](/img/privateAccount/privateAccount.png)

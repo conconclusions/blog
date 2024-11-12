@@ -1,6 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://concon.ca/blog'
 languageCode = 'en-us'
 title = "conconclusions blog"
+relativeURLs = true
 
 [permalinks]
   blog = "/:filename/"
@@ -25,7 +26,3 @@ title = "conconclusions blog"
 [params]
   dateFormat = "Jan 2, 2006"
   homeText = "my thoughts."
-
-[[module.mounts]]
-source = 'images'
-target = 'static/images'

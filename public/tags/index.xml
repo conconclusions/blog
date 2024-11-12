@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>conconclusion blog post tags on conconclusions blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://concon.ca/blog/tags/</link>
     <description>Recent content in conconclusion blog post tags on conconclusions blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Nov 2024 09:17:42 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://concon.ca/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Private Account</title>
-      <link>http://localhost:1313/tags/private-account/</link>
+      <link>https://concon.ca/blog/tags/private-account/</link>
       <pubDate>Sun, 10 Nov 2024 09:17:42 -0400</pubDate>
-      <guid>http://localhost:1313/tags/private-account/</guid>
+      <guid>https://concon.ca/blog/tags/private-account/</guid>
       <description></description>
     </item>
   </channel>
