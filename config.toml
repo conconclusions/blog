@@ -26,3 +26,6 @@ title = "conconclusions blog"
   dateFormat = "Jan 2, 2006"
   homeText = "my thoughts."
 
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
